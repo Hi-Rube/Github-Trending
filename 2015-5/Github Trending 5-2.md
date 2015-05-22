@@ -4,7 +4,9 @@
 
 	json-server 能够为开发者快速构建一个基于 REST API 的服务器，这对开发调试等十分方便。		     
 	
-	如何利用 json-server 呢。首先开发者需要构建一个 db.json。	```       
+	如何利用 json-server 呢。首先开发者需要构建一个 db.json。
+	
+	```       
 	{
   	"posts": [
     { "id": 1, "title": "json-server", "author": 	"typicode" }
